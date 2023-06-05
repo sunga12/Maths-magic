@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Leaderboard\] ](#-leaderboard-)
+- [📖 \[Math-magicians\] ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
@@ -17,7 +17,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 [Math-magicians] <a name="about-project"></a>
 
 This is a simple React app, Setup for the Math Magicians project
 
