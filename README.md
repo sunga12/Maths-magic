@@ -29,6 +29,7 @@ This is a simple React app, Setup for the Math Magicians project
 ### Key Features <a name="key-features"></a>
 
 - Basic Setup
+- Calculator with minimal styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +68,6 @@ To get a local copy up and running, follow these steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Calculator
 - SPA Setup
 - Contact Page
 
