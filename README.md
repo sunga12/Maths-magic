@@ -31,6 +31,7 @@ This is a simple React app, Setup for the Math Magicians project
 - Basic Setup
 - Calculator with minimal styling
 - Functional Calculator, performing various Operations
+- Fetches quotes via API usage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +70,9 @@ To get a local copy up and running, follow these steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Fetch API usage
+- Homepage
+- Contact Page
+- SPA Setup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
