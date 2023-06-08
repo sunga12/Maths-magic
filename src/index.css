@@ -84,3 +84,31 @@ button {
 .buttons > :nth-child(19) {
   background-color: #df8554;
 }
+
+ul {
+  margin: 5rem auto;
+  border: 1px solid gray;
+  width: 50%;
+  padding: 0;
+  border-radius: 10px;
+  background: linear-gradient(#df8554, #8c8984);
+}
+
+li {
+  list-style-type: none;
+}
+
+.quote-title {
+  color: #fff;
+  height: 100%;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+}
+
+.quote {
+  background: linear-gradient(#bab8b8, #8c8a8a);
+  color: #efefef;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 0.5rem 1rem;
+}

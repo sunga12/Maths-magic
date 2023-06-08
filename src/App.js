@@ -1,9 +1,14 @@
 import Calculator from './components/Calculator';
+import Quotes from './components/Quotes';
 import './index.css';
 
 function App() {
   return (
-    <Calculator />
+    <div>
+      <Calculator />
+      <Quotes />
+
+    </div>
   );
 }
 

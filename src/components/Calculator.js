@@ -43,6 +43,3 @@ function Calculator() {
 }
 
 export default Calculator;
-
-// 1. Clicked button with buttonName tto show
-// - click handler
