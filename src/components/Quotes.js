@@ -29,7 +29,7 @@ function Quotes() {
 
   if (hasError) {
     return (
-      <Message message="Something went wrong, Please try again!" />
+      <Message className="quote" message="Something went wrong, Please try again!" />
     );
   }
   if (isLoading) {
@@ -39,8 +39,8 @@ function Quotes() {
   }
 
   return (
-    <div>
-      <ul>
+    <div className="quote-div">
+      <ul className="qotm">
         <li className="quote-title">Quote of the Moment:</li>
         {data.map((item) => (
           <li className="quote" key={1}>
