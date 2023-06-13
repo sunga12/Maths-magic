@@ -24,21 +24,23 @@ function Calculator() {
   const { total, next, operation } = calcDataObj;
 
   return (
-    <div className="calculator">
-      <div className="output">
-        <p>
-          {total}
-          {operation}
-          {next}
-        </p>
-
+    <>
+      <h3 className="calc-sub">Lets Do Some Math!</h3>
+      <div className="calculator">
+        <div className="output">
+          <p>
+            {total}
+            {operation}
+            {next}
+          </p>
+        </div>
+        <div className="buttons">
+          {buttons.map((button) => (
+            <button onClick={onClickHandler} className="calc-button" type="button" key={button}>{button}</button>
+          ))}
+        </div>
       </div>
-      <div className="buttons">
-        {buttons.map((button) => (
-          <button onClick={onClickHandler} className="calc-button" type="button" key={button}>{button}</button>
-        ))}
-      </div>
-    </div>
+    </>
   );
 }
 
