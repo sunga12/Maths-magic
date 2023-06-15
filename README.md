@@ -41,7 +41,7 @@ This is a simple React app, Setup for the Math Magicians project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming Soon
+- Check out (Math Magicians)[https://math-magicians-2hlc.onrender.com]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
